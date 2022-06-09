@@ -1,0 +1,2 @@
+Link Frontend: https://muhamad-afif-ftds-10-frontend.herokuapp.com/
+Link Backend: https://muhamad-afif-ftds-10-p1m2-2.herokuapp.com/
